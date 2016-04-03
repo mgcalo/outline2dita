@@ -27,7 +27,7 @@ Your repository structure (for example *C:/DITA/outline2dita/*) should contain t
     		- *stub-py-Project.xpr*  
     - *test-project*  
     - *test-projekt*  
-    	  *test-project* and *testprojekt* are folders with sample results.  
+    	  *test-project* and *test-projekt* are folders with sample results.  
 
 ## Writing the content outline
 
@@ -81,5 +81,5 @@ Imprint ##c
 
 1. The map should end with a topic on the first level (such as *Imprint*).
   This issue will be fixed asap.
-2. Right-click the other language folder, if you don't need it (*de* or *en*), and click **Remove from project**.
+2. [FIXED] Right-click the other language folder, if you don't need it (*de* or *en*), and click **Remove from project**.
  
