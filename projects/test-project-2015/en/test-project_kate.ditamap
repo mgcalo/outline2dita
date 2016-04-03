@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"> 
+<map xml:lang="en-US">
+<title>test-project_kate</title>
+<topicref href="source/c_ov_boldly-going-where-no-man-has-gone-before.xml" navtitle="Boldly going where no man has gone before" format="dita" type="concept">
+<topicref href="source/c_ov_operating-the-enterprise.xml" navtitle="Operating the enterprise" format="dita" type="concept">
+<topicref href="source/t_shifting-to-warp.xml" navtitle="Shifting to warp" format="dita"  type="task"/>
+<topicref href="source/r_the-gears.xml" navtitle="The gears" format="dita"  type="reference"/>
+<topicref href="source/c_liability.xml" navtitle="Liability" format="dita" type="concept"/></topicref>
+<topicref href="source/c_ov_product-overview.xml" navtitle="Product overview" format="dita" type="concept">
+<topicref href="source/r_system-requirements.xml" navtitle="System requirements" format="dita"  type="reference"/>
+<topicref href="source/r_support.xml" navtitle="Support" format="dita" type="reference"/></topicref></topicref>
+<topicref href="source/t_ov_installing-the-product.xml" navtitle="Installing the product" format="dita" type="task">
+<topicref href="source/t_installing-the-server.xml" navtitle="Installing the server" format="dita"  type="task"/>
+<topicref href="source/t_installing-the-clients.xml" navtitle="Installing the clients" format="dita" type="task"/></topicref>
+<topicref href="source/c_imprint.xml" navtitle="Imprint" format="dita" type="concept"/></map>

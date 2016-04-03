@@ -1,0 +1,15 @@
+﻿language=de
+projects repository=C:/DITA/outline2dita/projects/
+project folder name=test-projekt
+Allgemeines ##c_ov
+	Ueber dieses Handbuch ##c_ov
+		Zweckbestimmung ##c
+		Berechtigungen ##r
+		Haftungsbeschraenkung ##c
+	Produkt-Ueberblick ##c_ov
+		Systemvoraussetzungen ##r
+		Kundenservice ##r
+Produkt installieren ##t_ov
+	Den Server installieren ##t
+	Clients installieren ##t
+Impressum ##c

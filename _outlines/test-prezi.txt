@@ -1,0 +1,44 @@
+language=en
+projects repository=C:/DITA/outline2dita/projects/
+project folder name=test-prezi
+What you can do with prezi ##c
+	Study projects and lectures ##r
+	Work projects and communication ##r
+	Presentations and events planning ##r
+How you can work with prezi ##c
+	Prezi versions ##r
+	Prezi apps ##r
+Creating a new prezi ##t
+	Choosing a template ##t
+	Adding frames and content ##t
+	Setting frames path and transition ##t
+	Adding prezi info ##t
+	Saving your prezi ##t
+Presenting with prezi ##t
+	Presenting online ##t
+		Sending invitations to attend ##t
+		Setting attendee access ##t
+	Presenting offline ##t
+		Saving a prezi as application ##t
+		Saving a prezi as PDF ##t
+Exporting prezi ##t
+	Embedding a prezi on other sites ##t
+	Integrating prezi with social platforms ##t
+Collaborating on prezi ##t
+	Sharing access to a prezi ##t
+	Commenting on prezi ##t
+	Replying to comments ##t
+Setting up canvas and schemes ##t
+	Supported content types ##r
+	Frame types ##r
+	Color schemes ##r
+	Branding ##r
+Setting up your profile ##t
+	Types of licenses ##r
+	Team settings ##r
+Resources ##r
+	Training ##r
+	Community ##r
+	Books ##r
+	Knowledge base ##r
+Contacts ##r

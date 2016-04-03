@@ -1,0 +1,15 @@
+﻿language=en
+projects repository=C:/DITA/outline2dita/projects/
+project folder name=test-project
+Boldly going where no man has gone before ##c_ov
+	Operating the enterprise ##c_ov
+		Shifting to warp ##t
+		The gears ##r
+		Liability ##c
+	Product overview ##c_ov
+		System requirements ##r
+		Support ##r
+Installing the product ##t_ov
+	Installing the server ##t
+	Installing the clients ##t
+Imprint ##c

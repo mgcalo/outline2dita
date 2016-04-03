@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_boldly-going-where-no-man-has-gone-before"
+               path="source/c_ov_boldly-going-where-no-man-has-gone-before.html"/>
+   <appContext helpID="c_operating-the-enterprise"
+               path="source/c_ov_operating-the-enterprise.html"/>
+   <appContext helpID="t_shifting-to-warp" path="source/t_shifting-to-warp.html"/>
+   <appContext helpID="r_the-gears" path="source/r_the-gears.html"/>
+   <appContext helpID="c_liability" path="source/c_liability.html"/>
+   <appContext helpID="c_product-overview" path="source/c_ov_product-overview.html"/>
+   <appContext helpID="r_system-requirements" path="source/r_system-requirements.html"/>
+   <appContext helpID="r_support" path="source/r_support.html"/>
+   <appContext helpID="t_installing-the-product"
+               path="source/t_ov_installing-the-product.html"/>
+   <appContext helpID="t_installing-the-server"
+               path="source/t_installing-the-server.html"/>
+   <appContext helpID="t_installing-the-clients"
+               path="source/t_installing-the-clients.html"/>
+   <appContext helpID="c_imprint" path="source/c_imprint.html"/>
+</map>

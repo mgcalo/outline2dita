@@ -1,0 +1,45 @@
+language=en
+projects repository=C:/DITA/outline2dita/projects/
+project folder name=trello-test
+Planning your projects with Trello ##t_ov
+	Keeping to-do lists ##t
+	Agile boards ##t
+	Brainstorming ##t
+	Voting ##t
+	Writing drafts ##t
+Starting a Trello board ##t_ov
+	Creating an user account ##t
+	Creating a personal organization ##t
+	Creating a business organization ##t
+	Creating a board ##t
+	Inviting participants ##t
+Collaborating on the board ##t_ov
+	Creating lists on the board ##t
+	Creating cards on the board ##t
+	Assigning members to cards ##t
+	Setting due dates ##t
+	Setting labels ##t
+	Prioritizing by voting on cards ##t
+Monitoring Trello boards ##t_ov
+	Checking activity history ##t
+	Subscribing ##t
+	Creating a calendar ##t
+Adding content to cards ##t
+	Title ##r
+	Description ##r
+	Checklists ##r
+	Attachments ##r
+	Comments ##r
+	Mentions ##r
+Exporting content from Trello ##t_ov
+	Sharing ##t
+	Printing ##t
+	Exporting ##t
+Changing items ##t_ov
+	Moving items ##t
+	Copying items ##t
+	Archiving items ##t
+	Deleting cards ##t
+	Closing boards ##t
+Examples of boards ##r
+Shortcuts and tips ##r
