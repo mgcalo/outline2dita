@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd"> 
+<map xml:lang="de-DE">
+<title>test-projekt</title>
+<topicref href="source/c_ov_allgemeines.xml" navtitle="Allgemeines" format="dita" type="concept">
+<topicref href="source/c_ov_ueber-dieses-handbuch.xml" navtitle="Ueber dieses Handbuch" format="dita" type="concept">
+<topicref href="source/c_zweckbestimmung.xml" navtitle="Zweckbestimmung" format="dita"  type="concept"/>
+<topicref href="source/r_berechtigungen.xml" navtitle="Berechtigungen" format="dita"  type="reference"/>
+<topicref href="source/c_haftungsbeschraenkung.xml" navtitle="Haftungsbeschraenkung" format="dita" type="concept"/></topicref>
+<topicref href="source/c_ov_produkt-ueberblick.xml" navtitle="Produkt-Ueberblick" format="dita" type="concept">
+<topicref href="source/r_systemvoraussetzungen.xml" navtitle="Systemvoraussetzungen" format="dita"  type="reference"/>
+<topicref href="source/r_kundenservice.xml" navtitle="Kundenservice" format="dita" type="reference"/></topicref></topicref>
+<topicref href="source/t_ov_produkt-installieren.xml" navtitle="Produkt installieren" format="dita" type="task">
+<topicref href="source/t_den-server-installieren.xml" navtitle="Den Server installieren" format="dita"  type="task"/>
+<topicref href="source/t_clients-installieren.xml" navtitle="Clients installieren" format="dita" type="task"/></topicref>
+<topicref href="source/c_impressum.xml" navtitle="Impressum" format="dita" type="concept"/></map>

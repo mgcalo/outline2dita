@@ -82,4 +82,5 @@ Imprint ##c
 1. The map should end with a topic on the first level (such as *Imprint*).
   This issue will be fixed asap.
 2. [FIXED] Right-click the other language folder, if you don't need it (*de* or *en*), and click **Remove from project**.
+3. Need to implement support for special charcaters (normalize titles when used in filepaths).
  

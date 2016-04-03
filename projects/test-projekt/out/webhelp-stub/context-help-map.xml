@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_allgemeines" path="source/c_ov_allgemeines.html"/>
+   <appContext helpID="c_ueber-dieses-handbuch"
+               path="source/c_ov_ueber-dieses-handbuch.html"/>
+   <appContext helpID="c_zweckbestimmung" path="source/c_zweckbestimmung.html"/>
+   <appContext helpID="r_berechtigungen" path="source/r_berechtigungen.html"/>
+   <appContext helpID="c_haftungsbeschraenkung"
+               path="source/c_haftungsbeschraenkung.html"/>
+   <appContext helpID="c_produkt-ueberblick"
+               path="source/c_ov_produkt-ueberblick.html"/>
+   <appContext helpID="r_systemvoraussetzungen"
+               path="source/r_systemvoraussetzungen.html"/>
+   <appContext helpID="r_kundenservice" path="source/r_kundenservice.html"/>
+   <appContext helpID="t_produkt-installieren"
+               path="source/t_ov_produkt-installieren.html"/>
+   <appContext helpID="t_den-server-installieren"
+               path="source/t_den-server-installieren.html"/>
+   <appContext helpID="t_clients-installieren"
+               path="source/t_clients-installieren.html"/>
+   <appContext helpID="c_impressum" path="source/c_impressum.html"/>
+</map>
